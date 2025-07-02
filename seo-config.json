@@ -1,0 +1,124 @@
+{
+  "site": {
+    "name": "o2omation",
+    "url": "https://o2omation.com",
+    "description": "Leading AI and Automation Agency specializing in OpenAI integrations, Zapier, Make.com, and n8n workflow automation solutions for businesses.",
+    "keywords": [
+      "AI automation",
+      "business automation",
+      "OpenAI integration",
+      "Zapier consulting",
+      "Make.com services",
+      "n8n workflows",
+      "AI agency",
+      "automation platform",
+      "workflow automation",
+      "AI consulting",
+      "business process automation",
+      "API integration",
+      "custom automation solutions",
+      "AI-powered workflows",
+      "automation consulting"
+    ],
+    "author": "o2omation Team",
+    "language": "en",
+    "region": "US"
+  },
+  "social": {
+    "twitter": "@o2omation",
+    "linkedin": "https://linkedin.com/company/o2omation",
+    "facebook": "https://facebook.com/o2omation"
+  },
+  "contact": {
+    "email": "hello@o2omation.com",
+    "phone": "+1-XXX-XXX-XXXX",
+    "address": {
+      "street": "123 Innovation Drive",
+      "city": "Tech City",
+      "state": "CA",
+      "zip": "90210",
+      "country": "United States"
+    }
+  },
+  "seo": {
+    "primaryKeywords": [
+      "AI automation agency",
+      "OpenAI integration services",
+      "Zapier automation consulting",
+      "Make.com workflow development",
+      "n8n automation platform"
+    ],
+    "secondaryKeywords": [
+      "business process automation",
+      "AI workflow optimization",
+      "custom automation solutions",
+      "API integration services",
+      "automation consulting firm"
+    ],
+    "targetAudience": [
+      "Small to medium businesses",
+      "Enterprise companies",
+      "Startups looking for automation",
+      "Digital agencies",
+      "SaaS companies",
+      "E-commerce businesses"
+    ],
+    "competitorKeywords": [
+      "automation agency",
+      "AI consulting firm",
+      "workflow automation company",
+      "business automation services",
+      "integration specialists"
+    ]
+  },
+  "services": [
+    {
+      "name": "OpenAI Integration",
+      "description": "Custom OpenAI API integrations and AI-powered solutions for businesses",
+      "keywords": ["OpenAI API", "GPT integration", "AI chatbots", "custom AI solutions"],
+      "url": "/services/openai-integration"
+    },
+    {
+      "name": "Zapier Automation",
+      "description": "Expert Zapier workflow automation and integration services",
+      "keywords": ["Zapier consulting", "workflow automation", "app integration", "business automation"],
+      "url": "/services/zapier-consulting"
+    },
+    {
+      "name": "Make.com Development",
+      "description": "Advanced Make.com scenario building and automation solutions",
+      "keywords": ["Make.com", "Integromat", "visual automation", "complex workflows"],
+      "url": "/services/make-automation"
+    },
+    {
+      "name": "n8n Workflows",
+      "description": "Custom n8n workflow development and automation platform setup",
+      "keywords": ["n8n", "open source automation", "self-hosted workflows", "custom integrations"],
+      "url": "/services/n8n-workflows"
+    }
+  ],
+  "blog": {
+    "categories": [
+      "AI Automation",
+      "Business Process Optimization",
+      "Integration Tutorials",
+      "Industry Insights",
+      "Case Studies",
+      "Tool Comparisons"
+    ],
+    "targetKeywords": [
+      "AI automation trends",
+      "business automation ROI",
+      "workflow optimization tips",
+      "integration best practices",
+      "automation case studies"
+    ]
+  },
+  "technical": {
+    "gtag": "GA_TRACKING_ID",
+    "gsc": "google-site-verification-code",
+    "bingWebmaster": "bing-verification-code",
+    "facebookPixel": "facebook-pixel-id",
+    "linkedinInsight": "linkedin-insight-tag"
+  }
+}

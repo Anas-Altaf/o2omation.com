@@ -1,0 +1,26 @@
+{
+    "name": "o2omation - AI & Automation Agency",
+    "short_name": "o2omation",
+    "description": "Leading AI and Automation Agency specializing in OpenAI integrations, Zapier, Make.com, and n8n workflow automation solutions.",
+    "icons": [
+        {
+            "src": "/assets/images/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/images/apple-touch-icon.svg",
+            "sizes": "180x180",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#d97706",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "orientation": "portrait-primary",
+    "categories": ["business", "productivity", "technology"],
+    "lang": "en-US"
+}
